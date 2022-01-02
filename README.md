@@ -1,10 +1,10 @@
 # 安装
 
-1. npm i one-jg-cli -g  必须安装在全局
+1. npm i ziu-cli -g  必须安装在全局
 
 # 使用
 
-1. one-jg-cli create <项目名称>
+1. ziu create <项目名称>
 2. [如果出现系统禁止运行等脚本问题](https://blog.csdn.net/zyj_15067066062/article/details/115111710)
 3. 安装项目 并且选择
 
